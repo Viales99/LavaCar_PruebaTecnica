@@ -1,0 +1,38 @@
+﻿@model IEnumerable<LavaCar.Entidades.Servicio>
+@{LavaCar.Entidades.Servicio modelo = new LavaCar.Entidades.Servicio();}
+
+@{
+    ViewData["Title"] = "Lista de Servicios";
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 text-center">
+        <h2 class="m-0 font-weight-bold text-secondary"><samp>Lista de Servicios</samp></h2>
+    </div>
+    <div class="card-body">
+        <div class="mb-3 mx-1">
+            <a href="#formServicio" id="btnAgregarServicio" class="btn btn-success btn-circle btn-lg" data-toggle="modal">
+                <span class="fas fa-plus-circle"></span>
+            </a>
+        </div>
+        <div class="table-responsive">
+            <table id="DataTableServicios" class="table table-striped table-bordered table-borderless">
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.Descripcion)</th>
+                        <th>@Html.DisplayNameFor(model => model.Monto)</th>
+                        <th>@Html.DisplayName("Acciones")</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</div>
+
+@await Html.PartialAsync("_FormularioServicio", modelo)
+
+@await Html.PartialAsync("_ModalListaVehiculos")
+
+@section scripts{
+    <script src="~/app/servicioCRUD.js"></script>
+}

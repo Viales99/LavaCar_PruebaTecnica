@@ -1,0 +1,9 @@
+C:\Users\josec\source\repos\LavaCar\LavaCar.Entidades\bin\Debug\netcoreapp3.1\LavaCar.Entidades.deps.json
+C:\Users\josec\source\repos\LavaCar\LavaCar.Entidades\bin\Debug\netcoreapp3.1\LavaCar.Entidades.dll
+C:\Users\josec\source\repos\LavaCar\LavaCar.Entidades\bin\Debug\netcoreapp3.1\LavaCar.Entidades.pdb
+C:\Users\josec\source\repos\LavaCar\LavaCar.Entidades\obj\Debug\netcoreapp3.1\LavaCar.Entidades.csprojAssemblyReference.cache
+C:\Users\josec\source\repos\LavaCar\LavaCar.Entidades\obj\Debug\netcoreapp3.1\LavaCar.Entidades.AssemblyInfoInputs.cache
+C:\Users\josec\source\repos\LavaCar\LavaCar.Entidades\obj\Debug\netcoreapp3.1\LavaCar.Entidades.AssemblyInfo.cs
+C:\Users\josec\source\repos\LavaCar\LavaCar.Entidades\obj\Debug\netcoreapp3.1\LavaCar.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\josec\source\repos\LavaCar\LavaCar.Entidades\obj\Debug\netcoreapp3.1\LavaCar.Entidades.dll
+C:\Users\josec\source\repos\LavaCar\LavaCar.Entidades\obj\Debug\netcoreapp3.1\LavaCar.Entidades.pdb

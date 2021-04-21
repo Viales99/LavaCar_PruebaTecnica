@@ -1,0 +1,57 @@
+﻿@model LavaCar.Entidades.Servicio
+<!-- Modal -->
+<div id="formServicio" class="modal fade" role="document" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="text-right mt-2 mr-3">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="modal-content">
+
+                    <div class="card text-center">
+                        <h2 class="card-header" id="FormTitulo"></h2>
+                    </div>
+                    <br>
+
+                    <form class="form-horizontal" id="formularioServicio">
+                        @Html.AntiForgeryToken()
+
+                        <div class="card">
+
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                            @Html.HiddenFor(model => model.IdServicio)
+
+                            <div class="form-group">
+                                <label asp-for="Descripcion" class="control-label col-md-10"></label>
+                                <div class="col-md-10">
+                                    <input asp-for="Descripcion" class="form-control" placeholder="Ingrese la descripción" />
+                                    <span asp-validation-for="Descripcion" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Monto" class="control-label col-md-10"></label>
+                                <div class="col-md-10">
+                                    <input asp-for="Monto" class="form-control" placeholder="Ingrese el monto" />
+                                    <span asp-validation-for="Monto" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </form>
+
+                </div>
+            </div>
+
+            <div class="modal-footer justify-content-center">
+                <button type="submit" id="btnAceptar" class="btn btn-success background-green-cnp"><span class="fas fa-check"></span> Aceptar</button>
+                <button type="button" class="btn btn-danger" data-dismiss="modal"><span class="fas fa-window-close"></span> Cancelar</button>
+            </div>
+        </div>
+
+    </div>
+</div>

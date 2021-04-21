@@ -1,0 +1,14 @@
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\bin\Debug\netcoreapp3.1\LavaCar.LogicaNegocio.deps.json
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\bin\Debug\netcoreapp3.1\LavaCar.LogicaNegocio.dll
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\bin\Debug\netcoreapp3.1\LavaCar.LogicaNegocio.pdb
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\bin\Debug\netcoreapp3.1\LavaCar.AccesoDatos.dll
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\bin\Debug\netcoreapp3.1\LavaCar.Entidades.dll
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\bin\Debug\netcoreapp3.1\LavaCar.AccesoDatos.pdb
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\bin\Debug\netcoreapp3.1\LavaCar.Entidades.pdb
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\obj\Debug\netcoreapp3.1\LavaCar.LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\obj\Debug\netcoreapp3.1\LavaCar.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\obj\Debug\netcoreapp3.1\LavaCar.LogicaNegocio.AssemblyInfo.cs
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\obj\Debug\netcoreapp3.1\LavaCar.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\obj\Debug\netcoreapp3.1\LavaCar.LogicaNegocio.csproj.CopyComplete
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\obj\Debug\netcoreapp3.1\LavaCar.LogicaNegocio.dll
+C:\Users\josec\source\repos\LavaCar\LavaCar.LogicaNegocio\obj\Debug\netcoreapp3.1\LavaCar.LogicaNegocio.pdb

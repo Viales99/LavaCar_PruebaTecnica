@@ -1,0 +1,15 @@
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\bin\Debug\netcoreapp3.1\LavaCar.AccesoDatos.deps.json
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\bin\Debug\netcoreapp3.1\LavaCar.AccesoDatos.runtimeconfig.json
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\bin\Debug\netcoreapp3.1\LavaCar.AccesoDatos.runtimeconfig.dev.json
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\bin\Debug\netcoreapp3.1\LavaCar.AccesoDatos.dll
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\bin\Debug\netcoreapp3.1\LavaCar.AccesoDatos.pdb
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\bin\Debug\netcoreapp3.1\LavaCar.Entidades.dll
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\bin\Debug\netcoreapp3.1\LavaCar.Entidades.pdb
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\obj\Debug\netcoreapp3.1\LavaCar.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\obj\Debug\netcoreapp3.1\LavaCar.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\obj\Debug\netcoreapp3.1\LavaCar.AccesoDatos.AssemblyInfo.cs
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\obj\Debug\netcoreapp3.1\LavaCar.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\obj\Debug\netcoreapp3.1\LavaCar.AccesoDatos.csproj.CopyComplete
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\obj\Debug\netcoreapp3.1\LavaCar.AccesoDatos.dll
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\obj\Debug\netcoreapp3.1\LavaCar.AccesoDatos.pdb
+C:\Users\josec\source\repos\LavaCar\LavaCar.AccesoDatos\obj\Debug\netcoreapp3.1\LavaCar.AccesoDatos.genruntimeconfig.cache

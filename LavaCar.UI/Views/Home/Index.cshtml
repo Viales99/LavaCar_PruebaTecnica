@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 text-center">
+        <h2 class="m-0 font-weight-bold text-secondary"><samp>¡Bienvenido al LavaCar!</samp></h2>
+    </div>
+    <div class="card-body">
+        <div class="row w-100 justify-content-center">
+
+            <div class="col-xl-5 col-md-11 mb-4 mx-md-auto mx-xl-0">
+                <div class="card border-bottom-left-cnp shadow h-100 py-2">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="h3 font-weight-bold text-uppercase mb-1 text-center">
+                                    <div class="mb-3 mx-1">
+                                        <a asp-area="" asp-controller="Servicio" asp-action="ListaDeServicios">
+                                            <span class="fas fa-hand-sparkles"></span>
+                                            Servicios
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-xl-5 col-md-11 mb-4 mx-md-auto mx-xl-0">
+                <div class="card border-bottom-left-cnp shadow h-100 py-2">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="h3 font-weight-bold text-center text-uppercase mb-1">
+                                    <div class="h3 font-weight-bold text-uppercase mb-1 text-center">
+                                        <div class="mb-3 mx-1">
+                                            <a asp-area="" asp-controller="Vehiculo" asp-action="ListaDeVehiculos">
+                                                <span class="fas fa-car"></span>
+                                                Vehículos
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
